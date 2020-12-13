@@ -1,2 +1,1 @@
 firstline
-line2
